@@ -15,3 +15,11 @@ export default App
  * TODO 2: Parking Entry
  * TODO 3: User search 
  */
+
+/**
+ * sheared 
+ * normal user
+ * admin
+ * map
+ * 
+ */
